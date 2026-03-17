@@ -91,4 +91,6 @@ Base URL = `http://localhost:8080`
   ```
 
 ## Screenshot Tampilan Website
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/0774eb06-d6dd-4f7c-bde0-8757c733fcb7" />
+
 
